@@ -2,7 +2,7 @@
 
 The topics covered in the seminar are related to recent computational challenges that arise from the fields of genomics and biomedicine, including but not limited to genomic variant interpretation, genomic sequence analysis, compressive genomics tasks, single-cell approaches, privacy considerations, statistical frameworks, etc. 
 Both recently published works contributing novel ideas to the areas mentioned above as well as seminal contributions from the past are amongst the list of selected papers.
-## [On the complexity of sequence-to-graph alignment](https://www.liebertpub.com/doi/abs/10.1089/cmb.2019.0066?journalCode=cmb)
+## [On the complexity of sequence-to-graph alignment](https://doi.org/10.1007/978-3-030-17083-7_6)
 
 [Slides](https://github.com/MirkoDeVita98/ETH_Seminars/blob/main/On_the_comp_of_seq_to_graph_alignment.pdf)
 
